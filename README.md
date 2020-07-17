@@ -1,2 +1,2 @@
 # ML-Team5
-This is the code from ML Team 5 that I worked on during Stem-Away program. I contributed heavily to this repository.
+This repository contains the code from ML Team 5 that I worked on during Stem-Away program. I heavily contributed to this repository.
